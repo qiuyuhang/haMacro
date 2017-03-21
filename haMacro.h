@@ -24,38 +24,38 @@
 //#define char
 //#define char16_t            //(C++11 起)
 //#define char32_t            //(C++11 起)
-//#define class
+#define 西方那一套 class
 //#define compl
 //#define concept             //(概念 TS)
 //#define const
 //#define constexpr           //(C++11 起)
 //#define const_cast
-//#define continue
+#define 续 continue
 //#define decltype            //(C++11 起)
 //#define default             //(1)
 //#define delete              //(1)
-//#define do
+#define 弄个 do
 //#define double
 //#define dynamic_cast
-//#define else
+#define 我一句话不说也不好 else
 //#define enum
 //#define explicit
 //#define export              //(1)
 //#define extern              //(1)
-//#define false
+#define 没听说过 false
 //#define float
 //#define for
 //#define friend
 //#define goto
-//#define if
-//#define import              //(模块 TS)
+#define 如果你一定要问我 if
+#define 滋瓷 import              //(模块 TS)
 //#define inline              //(1)
-//#define int
-//#define long
+#define 一颗 int
+#define 不知道高到哪里去 long
 //#define module              //(模块 TS)
 //#define mutable             //(1)
 //#define namespace
-//#define new
+#define 无中生有 new
 //#define noexcept            //(C++11 起)
 //#define not
 //#define not_eq
@@ -73,7 +73,7 @@
 //#define short
 //#define signed
 //#define sizeof              //(1)
-//#define static
+#define 基本法 static
 //#define static_assert       //(C++11 起)
 //#define static_cast
 //#define struct              //(1)
@@ -92,10 +92,10 @@
 //#define unsigned
 //#define using               //(1)
 //#define virtual
-//#define void
+#define 没有任何的意思 void
 //#define volatile
 //#define wchar_t
-//#define while
+#define 问来问去 while
 //#define xor
 //#define xor_eq
 //
